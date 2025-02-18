@@ -1,6 +1,6 @@
 # Book Vibe 📚
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_DEPLOY_ID_HERE/deploy-status)](https://app.netlify.com/sites/book-vibeee/deploys)
+
 
 **Discover Your Next Literary Adventure**  
 Book Vibe is a modern online platform designed to revolutionize book discovery, offering an immersive experience for readers to explore, review, and purchase books seamlessly.
