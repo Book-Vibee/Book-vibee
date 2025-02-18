@@ -103,4 +103,4 @@ Built using Agile methodology, the platform prioritizes user-centric design and 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Kamruzzaman2200/book-vibe.git](https://github.com/Book-Vibee/Book-vibee.git)
+   git clone https://github.com/Kamruzzaman2200/book-vibe.git
