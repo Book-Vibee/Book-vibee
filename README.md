@@ -85,7 +85,7 @@ Built using Agile methodology, the platform prioritizes user-centric design and 
 
 | Name                     | Short Name | Role                                  | Contribution Highlights              |
 |--------------------------|------------|---------------------------------------|---------------------------------------|
-| Mohammed Ashir Rahman    | MAR        | Team Leader/Systems Analyst          | Agile workflow management, API design|
+| Mohammod Ashikur Rahman    | MAR        | Team Leader/Systems Analyst          | Agile workflow management, API design|
 | MD: Kamruzzaman          | MKS        | Frontend Developer                   | React components, UI/UX optimization |
 | Fahim Sahriar            | FS         | Web Designer / Sub Team Leader       | Responsive design, Figma prototyping |
 | Ifaz Ahmed Chowdhury     | IAC        | Full Backend Developer               | REST API development, database design|
