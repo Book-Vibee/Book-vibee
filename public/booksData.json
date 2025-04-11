@@ -1,0 +1,130 @@
+[
+  {
+    "bookId": 1,
+    "bookName": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "image": "https://i.ibb.co.com/khHN7Pk/9780143454212.jpg",
+    "review": "A timeless classic that captures the excesses and disillusionment of the Jazz Age. Through the eyes of Nick Carraway, we explore the enigmatic world of Jay Gatsby, a man driven by love and ambition, set against a backdrop of extravagant parties, wealth, and the pursuit of an unattainable dream.",
+    "totalPages": 192,
+    "rating": 4.5,
+    "category": "Classic",
+    "tags": ["Fiction", "Romance"],
+    "publisher": "Scribner",
+    "yearOfPublishing": 1925,
+    "pdfLink":"https://drive.google.com/file/d/137DnVqHF7RzGBkyoNuSpd0CEUKhmSW0l/view?usp=sharing"
+  },
+  {
+    "bookId": 2,
+    "bookName": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "image": "https://i.ibb.co.com/0cv102J/To-Kill-a-Mockingbird.webp",
+    "review": "A profound exploration of morality, justice, and racial inequality in the American South. Told through the innocent eyes of Scout Finch, this novel portrays a gripping courtroom drama where her father, Atticus Finch, defends a Black man wrongly accused of a crime, challenging the deeply rooted prejudices of society.",
+    "totalPages": 281,
+    "rating": 4.8,
+    "category": "Fiction",
+    "tags": ["Drama", "Social Justice"],
+    "publisher": "J.B. Lippincott & Co.",
+    "yearOfPublishing": 1960,
+    "pdfLink":"https://drive.google.com/file/d/12iBXLmtdHek3LJz6YxZ6j1IwhtSuWc4V/view?usp=sharing"
+  },
+  {
+    "bookId": 3,
+    "bookName": "1984",
+    "author": "George Orwell",
+    "image": "https://i.ibb.co.com/MprDyVt/51-BIA4rrae-L-AC-UF1000-1000-QL80.jpg",
+    "review": "A chilling dystopian vision of a totalitarian regime that controls every aspect of life. Through the journey of Winston Smith, Orwell explores themes of surveillance, propaganda, and the consequences of absolute power, painting a haunting picture of a future where independent thought is a crime.",
+    "totalPages": 328,
+    "rating": 4.6,
+    "category": "Fiction",
+    "tags": ["Dystopian", "Political"],
+    "publisher": "Secker & Warburg",
+    "yearOfPublishing": 1949,
+    "pdfLink":"https://drive.google.com/file/d/1G0Gl8rKe92QZxdoG45OXx6luQsXTeYcp/view?usp=sharing"
+    
+  },
+  {
+    "bookId": 4,
+    "bookName": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "image": "https://i.ibb.co.com/tYSWRfG/catcherrye-edited-1-800x.png",
+    "review": "A deeply introspective novel that follows the rebellious and troubled teenager Holden Caulfield as he navigates the challenges of identity, isolation, and growing up. With sharp wit and raw emotion, this coming-of-age story resonates with anyone who has ever felt lost in the transition to adulthood.",
+    "totalPages": 224,
+    "rating": 4.3,
+    "category": "Fiction",
+    "tags": ["Young Adult", "Identity"],
+    "publisher": "Little, Brown and Company",
+    "yearOfPublishing": 1951,
+    "pdfLink":"https://drive.google.com/file/d/14HxMFgS1u4e9WWuUrD_Rd_fvsNX0kofW/view?usp=sharing"
+    
+  },
+  {
+    "bookId": 5,
+    "bookName": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "image": "https://i.ibb.co.com/YdQDMpn/81me-ud-V63-L-AC-UF1000-1000-QL80.jpg",
+    "review": "A brilliant critique of social norms, marriage, and class distinctions in 19th-century England. Through the witty and intelligent Elizabeth Bennet, Austen crafts a story that is both a romantic delight and a sharp social commentary on the expectations placed upon women during that time.",
+    "totalPages": 279,
+    "rating": 4.7,
+    "category": "Classic",
+    "tags": ["Romance", "Satire"],
+    "publisher": "T. Egerton, Whitehall",
+    "yearOfPublishing": 1813,
+    "pdfLink":"https://drive.google.com/file/d/1N8KdP_7X5cRvH3oA1tO1BQB9nBYlSSxP/view?usp=sharing"
+
+  },
+
+  {
+    "bookId": 6,
+    "bookName": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "image": "https://i.ibb.co.com/xS8YvxL/81m-CE-uclx-L-UF1000-1000-QL80.jpg",
+    "review": "An enchanting adventure that introduces readers to Middle-earth and follows Bilbo Baggins as he embarks on a thrilling quest. Filled with magic, dwarves, dragons, and unexpected heroism, this book serves as a fantastic prelude to Tolkien's legendary 'The Lord of the Rings' series.",
+    "totalPages": 310,
+    "rating": 4.9,
+    "category": "Fantasy",
+    "tags": ["Adventure", "Epic"],
+    "publisher": "Allen & Unwin",
+    "yearOfPublishing": 1937,
+    "pdfLink":"https://drive.google.com/file/d/175PNHti_eEGZB_hRxExF2MKubWUPND9l/view?usp=sharing"
+  },
+  {
+    "bookId": 7,
+    "bookName": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "image": "https://i.ibb.co.com/989qMRW/42844155.jpg",
+    "review": "The magical beginning of the beloved Harry Potter series, where readers are introduced to Hogwarts, spells, and an unforgettable journey of friendship and bravery. This novel sets the stage for an epic saga of good versus evil, making it a must-read for fantasy lovers of all ages.",
+    "totalPages": 309,
+    "rating": 4.8,
+    "category": "Fantasy",
+    "tags": ["Magic", "Young Adult"],
+    "publisher": "Bloomsbury",
+    "yearOfPublishing": 1997,
+    "pdfLink":"https://drive.google.com/file/d/1FTrMRE-VVEhskG36Vo81sXprRCYz45qn/view?usp=sharing"
+  },
+  {
+    "bookId": 8,
+    "bookName": "The Alchemist",
+    "author": "Paulo Coelho",
+    "image": "https://i.ibb.co.com/zS9jsdK/18144590.jpg",
+    "review": "A beautifully written tale about following one's dreams and listening to one's heart. Santiago’s journey across the desert in search of treasure serves as a metaphor for self-discovery, reminding readers that sometimes, the true treasure lies within.",
+    "totalPages": 177,
+    "rating": 4.6,
+    "category": "Fiction",
+    "tags": ["Philosophical", "Adventure"],
+    "publisher": "HarperCollins",
+    "yearOfPublishing": 1988
+  },
+  {
+    "bookId": 9,
+    "bookName": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "image": "https://i.ibb.co.com/P6hfCmJ/Whats-App-Image-2024-05-22-at-11-21-25-2e21ae46.jpg",
+    "review": "A gripping psychological thriller filled with suspense and unreliable narrators. The story follows Rachel, an alcoholic who becomes entangled in a missing person case, leading to shocking revelations. A thrilling ride that keeps readers guessing until the very end.",
+    "totalPages": 316,
+    "rating": 4.2,
+    "category": "Mystery",
+    "tags": ["Suspense", "Psychological"],
+    "publisher": "Riverhead Books",
+    "yearOfPublishing": 2015
+  }
+]
