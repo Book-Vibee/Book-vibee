@@ -104,3 +104,5 @@ Built using Agile methodology, the platform prioritizes user-centric design and 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Kamruzzaman2200/book-vibe.git
+
+Report:- https://docs.google.com/document/d/1nPA2EJS5fE1pV66PCIuM_I3xdI_DxPc7cama3c87pTE/edit?usp=drivesdk
